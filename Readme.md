@@ -34,10 +34,10 @@ You can install these libraries by running the following command in your termina
 pip install numpy pandas matplotlib seaborn sklearn
 ```
 
-After installing the libraries, you can run the code by running the following command in your terminal:
+Installing 
 
-```bash
-python main.py
+```
+git clone
 ```
 
 ## Thank You
