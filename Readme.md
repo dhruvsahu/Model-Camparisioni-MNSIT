@@ -18,4 +18,26 @@ The k value of KNN with training size of 0.9 is 4 for which we got this accuracy
 
 The accuracy of Random Forest with training size of 0.8 is 0.97 and n_estimators value 500.
 
-# Model-Comparision-MNSIT
+To run the code, you need to have python installed on your system. You can download it from [here](https://www.python.org/downloads/).
+
+After installing python, you need to install the following libraries:
+
+* numpy
+* pandas
+* matplotlib
+* seaborn
+* sklearn
+
+You can install these libraries by running the following command in your terminal:
+
+```bash
+pip install numpy pandas matplotlib seaborn sklearn
+```
+
+After installing the libraries, you can run the code by running the following command in your terminal:
+
+```bash
+python main.py
+```
+
+## Thank You
